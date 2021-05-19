@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/sQflight/lim.siqi/main/images/Qi_passport%20size_2021.JPG)
+![alt text](img src=https://raw.githubusercontent.com/sQflight/lim.siqi/main/images/Qi_passport%20size_2021.JP Gwidth=20% height=20%)
 
 <!-- Add your details -->
 
@@ -24,6 +24,7 @@ I am __Si Qi__, a seasoned data scientist with ~7 years of progressive experienc
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Publications](#publications) <br> 
 
 <!-- ABOUT Section Ends -->
 
@@ -31,7 +32,7 @@ I am __Si Qi__, a seasoned data scientist with ~7 years of progressive experienc
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
+Research Assistant<br>
 June-2019 to Present: 1 year 10 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
@@ -83,3 +84,10 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+
+## PUBLICATIONS
+<!-- Add your details -->
+##### Publications
+Star performer of the year at Accenture
+<!-- PUBLICATIONS Section Ends -->
