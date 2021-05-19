@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](img src=https://raw.githubusercontent.com/sQflight/lim.siqi/main/images/Qi_passport%20size_2021.JP Gwidth=20% height=20%)
+![alt text](img src=https://raw.githubusercontent.com/sQflight/lim.siqi/main/images/Qi_passport%20size_2021.JPGwidth=20% height=20%)
 
 <!-- Add your details -->
 
